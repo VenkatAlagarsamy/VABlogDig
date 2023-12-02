@@ -6,7 +6,7 @@ from langchain.prompts import SystemMessagePromptTemplate, HumanMessagePromptTem
 import streamlit as st
 import streamlit_chat as message
 import pyttsx3
-from try5_utils import *
+from BlogDigAIUtils import *
 
 openai_api_key = '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'
 
