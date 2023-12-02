@@ -7,7 +7,7 @@ from langchain.chat_models import ChatOpenAI
 from dotenv import load_dotenv
 import os
 #import pyttsx3
-import pyaudio
+#import pyaudio
 #import pinecone
 from openai import OpenAI
 import streamlit as st

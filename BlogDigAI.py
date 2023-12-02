@@ -4,7 +4,7 @@ from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 from langchain.prompts import SystemMessagePromptTemplate, HumanMessagePromptTemplate, ChatPromptTemplate, MessagesPlaceholder
 
 import streamlit as st
-import streamlit_chat as message
+#import streamlit_chat as message
 import pyttsx3
 from BlogDigAIUtils import *
 
